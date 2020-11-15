@@ -1,0 +1,11 @@
+footer {
+    background-color: aqua;
+    height: 200px;
+    width: 100%;
+    text-align: center;
+}
+
+.copyright {
+    color: rgb(206, 33, 33);
+    padding-top: 80px;
+}
