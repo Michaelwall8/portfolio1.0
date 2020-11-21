@@ -9,3 +9,16 @@ footer {
     color: rgb(206, 33, 33);
     padding-top: 80px;
 }
+
+.projects {
+    background-image: url("image/project1.jpg");
+    width: 350px;
+    height: 350px;
+    background-size: 100% 100%;
+}
+
+footer {
+    position: relative;
+    left: 0;
+    bottom: 0;
+}
