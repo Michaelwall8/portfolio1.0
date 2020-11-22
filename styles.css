@@ -1,5 +1,11 @@
+body {
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/168/377/65/simple-background-gradient-wallpaper-preview.jpg");
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
 footer {
-    background-color: aqua;
+    background-color: rgb(12, 4, 2);
     height: 200px;
     width: 100%;
     text-align: center;
