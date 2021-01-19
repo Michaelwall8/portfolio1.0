@@ -16,8 +16,22 @@ footer {
     padding-top: 80px;
 }
 
-.projects {
-    background-image: url("image/project1.jpg");
+.project {
+    background-image: url("https://raw.githubusercontent.com/kirsralk/APIGroupProject/main/assets/cincoscreenshot.png");
+    width: 350px;
+    height: 350px;
+    background-size: 100% 100%;
+}
+
+.project2 {
+    background-image: url("image/sacreenshotworkday.png");
+    width: 350px;
+    height: 350px;
+    background-size: 100% 100%;
+}
+
+.project3 {
+    background-image: url("image/weatherapp.png");
     width: 350px;
     height: 350px;
     background-size: 100% 100%;
@@ -27,4 +41,9 @@ footer {
     position: relative;
     left: 0;
     bottom: 0;
+}
+
+.icons {
+    color: blue;
+    font-size: large;
 }
